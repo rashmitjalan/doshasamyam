@@ -1,0 +1,2 @@
+# doshasamyam
+Dosha Samyam Calculator
